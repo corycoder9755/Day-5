@@ -8,7 +8,7 @@ In wireshark you can pick the NIC you want to capture packet from by selecting I
 
 # Task 2
 ## Filtering Captured Packets
-You can filter the packet in wireshark based on it's name like for HTTP is http\
+You can filter the packet in wireshark based on it's name like for HTTP is http
 * HTTP Packet Capture
 ![http packet capture screenshot](Media/http_capture.png)
 * TCP Packet Capture
