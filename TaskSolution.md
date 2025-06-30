@@ -36,7 +36,7 @@ You can filter the packet in wireshark based on it's name like for HTTP is http
 * Using TLS which is a secure protocols which will encrypt the communication the device will send HTTP request to server to load web page 
 * After gettting response the files will be used to render web page to load google.com 
 * After depending upon user's interaction with web page additional requests and response will be done
-* QUIC (Quick UDP Internet Protocol) protocol is used in order to Optimise network speed thus reducing Network Congestions during communication
+* QUIC (Quick UDP Internet Connections) protocol is used in order to Optimise network speed thus reducing Network Congestions during communication and make it secure
 * The communication between server and client (Us) will be facilitated using TCP Packets (HTTP is part of TCP)
 * This is the example for google.com but other websites also follow this for communication
 
